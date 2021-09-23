@@ -1,5 +1,8 @@
 <?php
-
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
+ */
 abstract class BaseController
 {
 	

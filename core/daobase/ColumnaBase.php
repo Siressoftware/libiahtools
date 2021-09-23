@@ -1,4 +1,8 @@
 <?php
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
+ */
 class ColumnaBase
 {
 	private $columna="";

@@ -1,4 +1,7 @@
-// JavaScript Document
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
+ */
 function Menu()
 {
 	this.nombre="Libiahtool";

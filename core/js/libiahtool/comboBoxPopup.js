@@ -1,5 +1,6 @@
-/**
- * 
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
  */
 function ComboBoxPopup()
 {

@@ -1,5 +1,8 @@
 // JavaScript Document
-
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
+ */
 function ItemComboBox()
 {
 	this.idItem = "";

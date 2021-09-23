@@ -3,7 +3,10 @@
  *
  */
  //ESTA FUNCION LA TUVE QUE PONER PORQUE SINO ME HACIA LIO LOS PROTOTIPOS CON JQUERY
-
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
+ */
  function Columna()
  {
      this.nombre="";

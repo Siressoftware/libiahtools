@@ -1,11 +1,13 @@
 <?php
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
+ */
 abstract class Sql
 {
 	private static $coneccion;
 	private static $host="localhost";
-	// private $usuario="cdelbosque";
 	private static $usuario="test";
-	// private $contrasena="DOLO-2113";
 	private static $contrasena="1234";
 	private static $bd="tienda";
 	private static $driver="mysql";

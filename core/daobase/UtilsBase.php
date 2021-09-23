@@ -1,4 +1,8 @@
 <?php
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
+ */
 abstract class UtilsBase
 {
 	public static function getArmarTabla($pathArchivoJson)

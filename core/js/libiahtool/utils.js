@@ -1,8 +1,7 @@
-/**
- * 
+/*
+ *   AUTHOR: MATIAS LEIVA
+ *   EMAIL: matiasleiva09@gmail.com
  */
-//CONJUNTO DE FUNCIONES PARA USO GENERAL
-
 function fechaHoy() 
 {
   var fecha = new Date();
